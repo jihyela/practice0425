@@ -29,6 +29,8 @@
 				</ul>
 					<a class="btn btn-default btn-lg navbar-btn" href="hotelInfo.jsp">&nbsp;
 						&nbsp; &nbsp; 호 &nbsp;텔 &nbsp;정 &nbsp;보 &nbsp; &nbsp; &nbsp;</a> 
+					<a class="btn btn-default btn-lg navbar-btn" href="roomInfo.jsp">&nbsp;
+						&nbsp; &nbsp; 객 &nbsp;실 &nbsp;정 &nbsp;보 &nbsp; &nbsp; &nbsp;</a> 
 					<a class="btn btn-default btn-lg navbar-btn" href="reservation.jsp">&nbsp;
 						&nbsp; &nbsp; 객 &nbsp;실 &nbsp;예 &nbsp;약 &nbsp; &nbsp; &nbsp;</a> 
 					<a class="btn btn-default btn-lg navbar-btn" href="hotelService.jsp">&nbsp;
