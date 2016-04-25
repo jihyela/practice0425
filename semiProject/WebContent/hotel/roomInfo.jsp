@@ -11,7 +11,7 @@
 <body>
 <jsp:include page="/template/header.jsp"></jsp:include>
 <br>
-<br>room info
+<br>room infoooooo
 <br>
 <br>
 <br>
