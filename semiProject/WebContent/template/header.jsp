@@ -8,7 +8,7 @@
 <link href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 <link href="${initParam.root}css/hotel.css" rel="stylesheet" type="text/css">
 </head>
-<a href="home.jsp"><img src="${initParam.root}img/hotelTop.jpg"
+<a href="home.jsp"><img src="${initParam.root}img/KostaHotelLogo.jpg"
 	class="center-block img-responsive img-thumbnail"></a>
 <body>
 	<div class="navbar navbar-default navbar-static-top">
