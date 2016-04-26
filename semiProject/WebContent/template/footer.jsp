@@ -11,11 +11,11 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-sm-6">
-				<h1>Footer header</h1>
 				<p>
-					Lorem ipsum dolor sit amet, consectetur adipisici elit, <br>sed
-					eiusmod tempor incidunt ut labore et dolore magna aliqua. <br>Ut
-					enim ad minim veniam, quis nostrud
+					<h4>호텔정보 | 고객센터</h4> <br>
+					(주)판교코스타호텔 | 경기도 성남시 분당구 삼평동 | TEL.010-5872-2302 <br>
+					사업자등록법호 111-11-11111 | 대표이사 조장 강석진 <br>
+					Copyright ⓒ 2016 PANKYO KOSTA HOTEL Inc. with portions of website content
 				</p>
 			</div>
 			<div class="col-sm-6">
