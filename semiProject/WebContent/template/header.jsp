@@ -8,7 +8,7 @@
 <link href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 <link href="${initParam.root}css/hotel.css" rel="stylesheet" type="text/css">
 </head>
-<a href="home.jsp"><img src="${initParam.root}img/hotelTop.jpg"
+<a href="home.jsp"><img src="${initParam.root}img/KostaHotelLogo.jpg"
 	class="center-block img-responsive img-thumbnail"></a>
 <body>
 	<div class="navbar navbar-default navbar-static-top">
@@ -29,6 +29,8 @@
 				</ul>
 					<a class="btn btn-default btn-lg navbar-btn" href="hotelInfo.jsp">&nbsp;
 						&nbsp; &nbsp; 호 &nbsp;텔 &nbsp;정 &nbsp;보 &nbsp; &nbsp; &nbsp;</a> 
+					<a class="btn btn-default btn-lg navbar-btn" href="roomInfo.jsp">&nbsp;
+						&nbsp; &nbsp; 객 &nbsp;실 &nbsp;정 &nbsp;보 &nbsp; &nbsp; &nbsp;</a> 
 					<a class="btn btn-default btn-lg navbar-btn" href="reservation.jsp">&nbsp;
 						&nbsp; &nbsp; 객 &nbsp;실 &nbsp;예 &nbsp;약 &nbsp; &nbsp; &nbsp;</a> 
 					<a class="btn btn-default btn-lg navbar-btn" href="hotelService.jsp">&nbsp;
