@@ -9,12 +9,12 @@
 <body>
 	<jsp:include page="/template/header.jsp"></jsp:include>
 	<div class="row" align="center">
-	<h2>공지사항</h2>
+	<h2>Q & A</h2>
 	</div>
 	<div class="row" align="center">
-		<a class="active btn btn-default btn-lg navbar-btn" href="hotelService.jsp"><h4
+		<a class="btn btn-default btn-lg navbar-btn" href="hotelService.jsp"><h4
 				class="text-center">&nbsp;&nbsp;&nbsp;공 지 사 항&nbsp;&nbsp;&nbsp;</h4></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		<a class="btn btn-default btn-lg navbar-btn"
+		<a class="active btn btn-default btn-lg navbar-btn"
 			href="hotelQNA.jsp"><h4 class="text-center">&nbsp; &nbsp; &nbsp; &nbsp; Q &amp;
 				A &nbsp; &nbsp; &nbsp; &nbsp;</h4></a>
 	</div>
@@ -24,7 +24,7 @@
 	<br>
 	<br>
 	<br>
-	<h1>공 지 사 항</h1>
+	<h1>Q N A</h1>
 	<br>
 	<br>
 	<br>
